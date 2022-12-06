@@ -1,8 +1,5 @@
 ### Ola eu sou o Robson Junior 👋
 
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning HTML, JavaScrip and CSS
 - 😄 Pronouns: him / his (ele / dele)
 
