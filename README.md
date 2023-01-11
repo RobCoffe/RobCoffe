@@ -1,5 +1,5 @@
 ### Ola eu sou o Robson Junior 👋
-🌱 Estudando HTML, JavaScrip and CSS.
+🌱 Estudando JavaScrip, HTML and CSS.
 <div>
   <a href="https://github.com/RobCoffe">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=RobCoffe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
